@@ -1,5 +1,5 @@
 # Geolocation based Speedometer and Compass
-To better enjoy this experience I recommend 2 options:
+If you want to clone this repository and try this locally, I recommend 2 options:
 - run on a local server and use the External Access URL on your mobile device
 - run a phone simulator (such as Xcode) on your computer and use the Exteneral Access URL on it to run the app
 
